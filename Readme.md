@@ -12,3 +12,27 @@ Three things to keep in mind PAAS (Google, AWS), IAAS(Machines) and SAAS (Applic
 
 There are client components in react and now working with CDK we have server components which are re-useable. All the configuration of CDK can be done with GI tools but not scale-able at all so doing it by using some language is preferred.
 AWS account is required for development with CDK.
+
+## Reading Material: -
+
+Base Technology Stack
+
+1. Frontend: React with Typescipt and Storybook
+2. Infrastructure As Code and Automation Tools: AWS CDK
+3. Integration: AWS EventBridge
+4. Computing: AWS Lambda
+5. Programing Language: TypeScript
+6. Orchestration: AWS Step Functions
+7. CDN: Amazon CloudFront
+8. Static Content: Amazon S3
+9. API Front End: GraphQL using AWS AppSync
+10. Database: AWS DynamoDB, AWS Arora Serverless, and AWS Neptune
+11. Container Management: Fargate
+12. Observability: AWS X-Ray
+13. IDE: VS Code
+14. CI/CD: Github Actions
+15. Version Control: GitHub
+
+Learning Repository
+
+- [Learn Full Stack Serverless Apps and API Development with CDK in Baby Steps](https://github.com/panacloud-modern-global-apps/full-stack-serverless-cdk)
