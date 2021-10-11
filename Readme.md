@@ -1,6 +1,8 @@
 # Intro to AWS Technologies With Cloud Development Kit (CDK)
 
-## Class Notes: -
+## Overview
+
+### Class Notes: -
 
 We previously used Netlify which is simple but lack functionality, it uses AWS lambda functions. Moving to AWS, concepts and APIs remains same but deployment changes.
 
