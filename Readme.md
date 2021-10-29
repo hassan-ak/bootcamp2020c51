@@ -1,6 +1,6 @@
-# bootcamp2020c51 - Intro to AWS Technologies With Cloud Development Kit (CDK)
+# bootcamp2020c51 - AWS Cloud and Serverless Technologies with Cloud Development Kit (CDK)
 
-## Overview
+## Intro to AWS Technologies With Cloud Development Kit (CDK)
 
 ### Class Notes: -
 
